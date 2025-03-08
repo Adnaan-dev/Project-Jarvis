@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)
 ![AI-Powered](https://img.shields.io/badge/AI-Powered-orange?style=flat&logo=openai)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🤖 About Jarvis AI Clone
 **Jarvis AI Clone** is a Python-based virtual assistant designed to perform various automation tasks. Inspired by Iron Man's **J.A.R.V.I.S**, this AI-powered assistant can recognize voice commands, respond intelligently, and help with day-to-day tasks.
