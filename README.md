@@ -9,7 +9,6 @@
 ## 🤖 About Jarvis AI Clone
 **Jarvis AI Clone** is a Python-based virtual assistant designed to perform various automation tasks. Inspired by Iron Man's **J.A.R.V.I.S**, this AI-powered assistant can recognize voice commands, respond intelligently, and help with day-to-day tasks.
 
-[🔗 **Live Demo**](https://your-github-username.github.io/Jarvis-AI-Clone/) *(Click to See the Animated Page!)*
 
 ---
 
@@ -66,15 +65,8 @@ Then give voice commands like:
 ## 🤝 Contributing
 We welcome contributions! Feel free to submit **pull requests** or open **issues** for improvements.
 
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
 ## 📢 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Adnaan-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-adnan-farooq-b216b7321/)
 
 ⭐ **Star this repository if you find it useful!** 🚀
