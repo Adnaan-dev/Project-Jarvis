@@ -1,5 +1,3 @@
-# Project-Jarvis by Python
-
 # 🚀 Jarvis AI Clone - AI Virtual Assistant
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)
